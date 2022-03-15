@@ -35,7 +35,6 @@ public class ApresentarDados {
 		estoque.clear();
 		System.out.println("Quinta Lista(após excluir todos os itens)"+estoque);
 
-
 	}
 
 }
